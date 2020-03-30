@@ -1,0 +1,2 @@
+import EditProfileViewController from "./EditProfileViewController";
+export default EditProfileViewController

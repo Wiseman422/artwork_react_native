@@ -1,0 +1,2 @@
+import PaymentaArtistViewController from "./PaymentaArtistViewController";
+export default PaymentaArtistViewController

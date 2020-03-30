@@ -1,0 +1,2 @@
+import OrderDetailViewController from "./OrderDetailViewController";
+export default OrderDetailViewController

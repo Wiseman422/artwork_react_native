@@ -1,0 +1,2 @@
+import FollowedArtistsViewController from './FollowedArtistsViewController';
+export default FollowedArtistsViewController;

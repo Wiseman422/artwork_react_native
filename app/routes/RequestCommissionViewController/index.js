@@ -1,0 +1,2 @@
+import RequestCommissionViewController from "./RequestCommissionViewController";
+export default RequestCommissionViewController

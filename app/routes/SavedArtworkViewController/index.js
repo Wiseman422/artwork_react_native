@@ -1,0 +1,2 @@
+import SavedArtworkViewController from "./SavedArtworkViewController";
+export default SavedArtworkViewController

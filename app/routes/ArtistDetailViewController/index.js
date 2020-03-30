@@ -1,0 +1,2 @@
+import ArtistDetailViewController from "./ArtistDetailViewController";
+export default ArtistDetailViewController

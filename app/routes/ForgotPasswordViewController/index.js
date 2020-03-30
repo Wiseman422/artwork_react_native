@@ -1,0 +1,2 @@
+import ForgotPasswordViewController from "./ForgotPasswordViewController";
+export default ForgotPasswordViewController

@@ -1,0 +1,2 @@
+import ArtistPortalViewController from "./ArtistPortalViewController";
+export default ArtistPortalViewController

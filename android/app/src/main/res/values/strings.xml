@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loc Art</string>
+    <string name="fb_login_protocol_scheme">fb179297392681678</string>
+    <string name="fb_app_id">179297392681678</string>
+    <string name="ak_client_token">c7e4eea9936c6e68cfd77b76bc36d7a5</string>
+    <string name="google_api_key1">AIzaSyBAfeRi4asM3Ek3cu--VBzZC29dILB6jF8</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkVuocW3qxQiDVIWbHj2sqh8Ca7TrjDo/YXL8ltPpMUiYhUGD+1W74xod8f849UzQgotsnl0CaGcQbLEkn6wauJh0oPsVNTcZw/jmxYH8T614MBS9j8kwdR33DCb2anB+pfkqA/wuCtrlHJlGCJEDooKQUPUGKjqzYdbsA8t8AUl6Sapxi+J9TpyJO76qb8iBk45YWn+UTeLrivcr3mXoToVxYFiHIK2NgcB+5PpQRdzwrDcCUIoGxbgEHbr0dmCjDNHBOt/QPiPjHFJR2TGBNOGnOX8RQi53pVzhhKLmaZwweL5H+Gw6uMvDeQRXRxY97M2DTsmheSfP+gfdCTsUywIDAQAB</string>
+</resources>

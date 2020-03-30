@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "68937573375",
+    "firebase_url": "https://artwork-197910.firebaseio.com",
+    "project_id": "artwork-197910",
+    "storage_bucket": "artwork-197910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68937573375:android:f3dacaf42277a1eb",
+        "android_client_info": {
+          "package_name": "com.locart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68937573375-k22ou3qvepaclj9hqhj5nk0cg0e8fo27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.locart",
+            "certificate_hash": "72f9e18461d8a445b2f2b74189117f1aa7f39a77"
+          }
+        },
+        {
+          "client_id": "68937573375-07egdkn1igmcapfd0h8hrhd0h81qmvbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4ob7G2owrJHEBP8bLhArZsf6WueTXE-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68937573375-07egdkn1igmcapfd0h8hrhd0h81qmvbj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68937573375-q52g59t0uu3pv2erc4qk7pfr1r8092kv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.artwork"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
