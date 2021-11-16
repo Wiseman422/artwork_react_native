@@ -11,7 +11,7 @@
     "apisauce": "^0.15.2",
     "aws-amplify": "^1.1.10",
     "aws-amplify-react-native": "^2.0.0",
-    "aws-sdk": "^2.305.0",
+    "aws-sdk": "^2.814.0",
     "hoist-non-react-statics": "^2.5.3",
     "iap-receipt-validator": "^1.0.6",
     "moment": "^2.22.2",
