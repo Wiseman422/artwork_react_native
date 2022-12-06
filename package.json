@@ -17,7 +17,7 @@
     "moment": "^2.22.2",
     "react": "^16.2.0",
     "react-mixin": "^4.0.0",
-    "react-native": "0.53.3",
+    "react-native": "0.70.6",
     "react-native-aws3": "^0.0.8",
     "react-native-billing": "^2.10.0",
     "react-native-cached-image": "^1.4.3",
